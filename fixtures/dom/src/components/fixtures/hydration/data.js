@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const SAMPLE_CODE = `
 class Fixture extends React.Component {
   state = {

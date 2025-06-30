@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // test() is part of Jest's serializer API
 export function test(maybeInspectedElement) {
   if (

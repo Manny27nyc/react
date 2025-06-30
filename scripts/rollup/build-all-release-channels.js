@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 'use strict';
 
 /* eslint-disable no-for-of-loops/no-for-of-loops */

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 'use strict';
 
 /* global __REACT_DEVTOOLS_GLOBAL_HOOK__ */

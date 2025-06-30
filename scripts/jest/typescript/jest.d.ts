@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare var jasmine: any;
 declare var __DEV__: boolean;
 declare var __TEST__: boolean;

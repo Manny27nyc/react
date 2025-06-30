@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Compile this with Babel.
 // babel --config-file ./babel.config.json BabelClasses.js --out-file BabelClasses-compiled.js --source-maps
 

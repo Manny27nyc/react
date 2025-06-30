@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const React = window.React;
 const fixturePath = window.location.pathname;
 

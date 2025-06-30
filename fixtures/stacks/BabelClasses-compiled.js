@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function _assertThisInitialized(self) {
   if (self === void 0) {
     throw new ReferenceError(

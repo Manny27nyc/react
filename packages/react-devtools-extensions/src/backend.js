@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Do not use imports or top-level requires here!
 // Running module factories is intentionally delayed until we know the hook exists.
 // This is to avoid issues like: https://github.com/facebook/react-devtools/issues/1039

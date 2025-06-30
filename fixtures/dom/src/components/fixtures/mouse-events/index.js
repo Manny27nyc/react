@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import FixtureSet from '../../FixtureSet';
 import MouseMovement from './mouse-movement';
 import MouseEnter from './mouse-enter';

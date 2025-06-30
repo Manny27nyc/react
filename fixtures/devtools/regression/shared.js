@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable no-fallthrough, react/react-in-jsx-scope, react/jsx-no-undef */
 /* global React ReactCache ReactDOM SchedulerTracing ScheduleTracing  */
 

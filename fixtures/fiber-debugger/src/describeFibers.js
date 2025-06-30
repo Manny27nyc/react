@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 let nextFiberID = 1;
 const fiberIDMap = new WeakMap();
 

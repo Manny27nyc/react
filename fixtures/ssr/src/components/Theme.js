@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {createContext, useContext, useState} from 'react';
 
 const Theme = createContext('light');

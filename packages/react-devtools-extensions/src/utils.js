@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* global chrome */
 
 import type {BrowserTheme} from 'react-devtools-shared/src/devtools/views/DevTools';

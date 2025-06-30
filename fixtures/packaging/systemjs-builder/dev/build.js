@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var Builder = require('systemjs-builder');
 
 var builder = new Builder('/', './config.js');

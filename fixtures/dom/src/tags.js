@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Version tags are loaded from the GitHub API. Since the GitHub API is rate-limited
  * we attempt to save and load the tags in sessionStorage when possible. Since its unlikely

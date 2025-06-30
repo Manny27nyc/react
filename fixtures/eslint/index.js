@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This is a testing playground for our lint rules.
 
 // 1. Run yarn && yarn start

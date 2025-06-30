@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 System.config({
   paths: {
     react: '../../../../build/node_modules/react/umd/react.development.js',

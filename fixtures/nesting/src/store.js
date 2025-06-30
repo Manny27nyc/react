@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {createStore} from 'redux';
 
 function reducer(state = 0, action) {

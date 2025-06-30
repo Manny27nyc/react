@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import {useState, Suspense} from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';

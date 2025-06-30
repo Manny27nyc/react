@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import FixtureSet from '../../FixtureSet';
 import MouseMove from './mouse-move';
 import Persistence from './persistence';

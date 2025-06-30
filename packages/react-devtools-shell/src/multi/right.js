@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as React from 'react';
 import {useLayoutEffect, useRef, useState} from 'react';
 import {render} from 'react-dom';

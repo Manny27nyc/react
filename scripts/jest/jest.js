@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env node
 /**
  * Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.

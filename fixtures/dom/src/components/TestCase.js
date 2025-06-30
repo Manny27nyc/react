@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import cn from 'classnames';
 import semver from 'semver';
 import PropTypes from 'prop-types';

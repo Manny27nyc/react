@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const React = window.React;
 
 class HitBox extends React.Component {

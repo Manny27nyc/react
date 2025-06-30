@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {findDOMNode} from '../../../find-dom-node';
 
 const React = window.React;

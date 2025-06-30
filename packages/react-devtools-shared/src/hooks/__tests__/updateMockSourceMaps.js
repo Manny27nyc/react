@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const {transformSync} = require('@babel/core');
 const {btoa} = require('base64');
 const {

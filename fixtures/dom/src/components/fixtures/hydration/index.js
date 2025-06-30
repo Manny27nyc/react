@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import './hydration.css';
 import VersionPicker from '../../VersionPicker';
 import {SAMPLE_CODE} from './data';

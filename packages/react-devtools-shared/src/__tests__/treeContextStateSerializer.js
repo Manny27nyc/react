@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import {printStore} from 'react-devtools-shared/src/devtools/utils';
 
 // test() is part of Jest's serializer API

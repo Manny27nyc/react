@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Copyright 2004-present Facebook. All Rights Reserved.
  */

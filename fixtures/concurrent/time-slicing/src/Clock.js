@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {createRef, PureComponent} from 'react';
 
 const SPEED = 0.003 / Math.PI;

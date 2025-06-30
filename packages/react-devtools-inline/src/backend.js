@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /** @flow */
 
 import Agent from 'react-devtools-shared/src/backend/agent';

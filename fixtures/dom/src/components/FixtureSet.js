@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import PropTypes from 'prop-types';
 const React = window.React;
 

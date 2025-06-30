@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import {Motion, spring} from 'react-motion';
 import dagre from 'dagre';

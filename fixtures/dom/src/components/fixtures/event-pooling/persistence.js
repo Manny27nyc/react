@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import TestCase from '../../TestCase';
 import HitBox from './hit-box';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {Component} from 'react';
 import Draggable from 'react-draggable';
 import ReactNoop from 'react-noop-renderer';

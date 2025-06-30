@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import {Component} from 'react';
 import {findDOMNode} from 'react-dom';

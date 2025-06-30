@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function getProperty(propertyName) {
   return el => el[propertyName];
 }

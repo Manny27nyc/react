@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function hasAbsoluteFileName(hook) {
   const fileName = hook.hookSource ? hook.hookSource.fileName : null;
   if (fileName == null) {

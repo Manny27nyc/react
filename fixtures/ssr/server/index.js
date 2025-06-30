@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 require('ignore-styles');
 const babelRegister = require('babel-register');
 const proxy = require('http-proxy-middleware');

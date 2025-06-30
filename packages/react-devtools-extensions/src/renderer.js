@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * In order to support reload-and-profile functionality, the renderer needs to be injected before any other scripts.
  * Since it is a complex file (with imports) we can't just toString() it like we do with the hook itself,

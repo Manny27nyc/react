@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const chromeManifest = require('../react-devtools-extensions/chrome/manifest.json');
 const firefoxManifest = require('../react-devtools-extensions/firefox/manifest.json');
 

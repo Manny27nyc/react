@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /** @license React v16.14.0
  * react-jsx-dev-runtime.development.js
  *

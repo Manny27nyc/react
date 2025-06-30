@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {useContext} from 'react';
 
 import Theme from './Theme';

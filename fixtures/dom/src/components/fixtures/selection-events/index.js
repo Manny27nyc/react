@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import FixtureSet from '../../FixtureSet';
 import ReorderedInputsTestCase from './ReorderedInputsTestCase';
 import OnSelectEventTestCase from './OnSelectEventTestCase';

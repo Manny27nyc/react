@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 'use strict';
 
 const RELEASE_CHANNEL = process.env.RELEASE_CHANNEL;

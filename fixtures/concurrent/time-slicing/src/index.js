@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, {PureComponent, unstable_startTransition} from 'react';
 import {createRoot} from 'react-dom';
 import _ from 'lodash';

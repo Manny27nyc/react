@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /** @flow */
 
 // This test harness mounts each test app as a separate root to test multi-root applications.
